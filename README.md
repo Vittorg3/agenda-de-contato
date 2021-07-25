@@ -17,7 +17,7 @@ __Gerenciar uma lista de contatos, podendo incluir, editar, excluir e buscar por
 __É recomendado usar as versões utilizadas no projeto ou versões posteriores as mesmas, para evitar possíveis bugs__.
 
 ## Instruções para instalação:
-__Para instalar todas das dependências do projeto use o seguinte comando__:
+__Para instalar todas as dependências do projeto use o seguinte comando__:
 <pre>
    npm install ou yarn install
 </pre>
