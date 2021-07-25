@@ -36,8 +36,8 @@ __Explicando as variáveis:__
 
 **PORT:** Escolha a porta do servidor.\
 **DATABASE:** Digite o **nome do banco** que a **API** irá criar as tabelas ao se conectar.\
-**DBUSERNAME:** Digite **o nome do usuário do banco**.\
-**DBPASSWORD:** Digite **a senha do usuário do banco**.\
+**DBUSERNAME:** Digite **o nome do usuário do banco de dados**.\
+**DBPASSWORD:** Digite **a senha do usuário do banco de dados**.\
 **HOST:** Digite **o host do banco**.
 
 __Após configurar corretamente as variáveis, a **API** já está pronta para se comunicar com o banco quando for preciso.__
