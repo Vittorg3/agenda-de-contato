@@ -24,7 +24,7 @@ __Para instalar todas as dependências do projeto use o seguinte comando__:
 
 __Após instalar as dependências, chegou a hora de configurar as variáveis de ambiente de acordo com o seu ambiente.__:
 
-Procure pelo arquivo **.dotenv** e abra ele para configurar as variáveis.
+Procure pelo arquivo **.env** e abra ele para configurar as variáveis.
 
 ![Arquivo dotenv](https://i.ibb.co/tBKYpTX/dotenv.png "Arquivo .dotenv")
 
