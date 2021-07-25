@@ -46,7 +46,7 @@ __Após configurar corretamente as variáveis, a **API** já está pronta para s
 
 ### Registrar novo contato:
 
-**ENDPOINT**: => __/create/contact/ (requisição do tipo **POST**)__\
+**ENDPOINT**: => __/create/contact/ (requisição do tipo **POST**)__
 
 Deve ser enviado os **seguintes campos:**
 
@@ -56,7 +56,7 @@ Deve ser enviado os **seguintes campos:**
 
 ### Registrar novo número para o contato:
 
-**ENDPOINT**: => __/create/contact/(idContato)/phone/ (requisição do tipo **POST**)__\
+**ENDPOINT**: => __/create/contact/(idContato)/phone/ (requisição do tipo **POST**)__
 
 Deve ser enviado os **seguintes campos:**
 
@@ -76,7 +76,7 @@ Caso queira **buscar** por **nome** e/ou **email**, basta passar as querys no me
 
 ### Atualizar Contato:
 
-**ENDPOINT**: => __/update/contact/(idContato)/ (requisição do tipo **PUT**)__\
+**ENDPOINT**: => __/update/contact/(idContato)/ (requisição do tipo **PUT**)__
 
 **Mande os campos que devem ser atualizados, como na imagem representada:**
 
@@ -87,8 +87,8 @@ Caso queira **buscar** por **nome** e/ou **email**, basta passar as querys no me
 
 ### Excluir contato ou apenas o número:
 
-**ENDPOINT**: => __/delete/contact/(idContato)/ (requisição do tipo **DELETE**)__\
+**ENDPOINT**: => __/delete/contact/(idContato)/ (requisição do tipo **DELETE**)__
 
 Caso queira **excluir** apenas algum **número do contato**, apenas passe uma query para o mesmo **endpoint**:
 
-**ENDPOINT**: => __/delete/contact/(idContato)/?phone=(idTelefone) (requisição do tipo **DELETE**)__\
+**ENDPOINT**: => __/delete/contact/(idContato)/?phone=(idTelefone) (requisição do tipo **DELETE**)__
