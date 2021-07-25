@@ -8,11 +8,11 @@ __Gerenciar uma lista de contatos, podendo incluir, editar, excluir e buscar por
 ## 🔧 Tecnologias
 ### foram usados neste projeto:
 ✔️ **Node JS** | **version: 14.16.0**\
-✔️ **Dotenv** | **version: 10.0.0**)\
-✔️ **Express** | **version: 4.17.1**)\
-✔️ **Mysql2** | **version: 2.2.5**)\
-✔️ **Sequelize** | **version: 6.6.5**)\
-✔️ **Cors** | **version: 2.8.5**)
+✔️ **Dotenv** | **version: 10.0.0**\
+✔️ **Express** | **version: 4.17.1**\
+✔️ **Mysql2** | **version: 2.2.5**\
+✔️ **Sequelize** | **version: 6.6.5**\
+✔️ **Cors** | **version: 2.8.5**
 
 __É recomendado usar as versões utilizadas no projeto ou versões posteriores as mesmas, para evitar possíveis bugs__.
 
