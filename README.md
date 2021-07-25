@@ -78,7 +78,7 @@ Caso queira **buscar** por **nome** e/ou **email**, basta passar as querys no me
 
 **ENDPOINT**: => __/update/contact/(idContato)/ (requisição do tipo **PUT**)__\
 
-Deve ser enviado os **seguintes campos:**
+**Mande os campos que devem ser atualizados, como na imagem representada:**
 
 ![Arquivo req](https://i.ibb.co/vjJPpXm/createpost.png "Atualizar contato")
 
