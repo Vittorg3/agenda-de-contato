@@ -151,8 +151,6 @@ module.exports = {
                     ]
                 }
             });
-
-            console.log(contacts);
         }
 
         if(req.query.name && !req.query.email) {
