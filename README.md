@@ -44,7 +44,7 @@ __Após configurar corretamente as variáveis, a **API** já está pronta para s
 
 ## Manual para uso correto da API: 
 
-### Registar novo contato:
+### Registrar novo contato:
 
 **ENDPOINT**: => __/create/contact/ (requisição do tipo **POST**)__\
 
@@ -54,7 +54,7 @@ Deve ser enviado os **seguintes campos:**
 
 **Note** que o campo **PHONE** deve ser enviado em forma de **array**. Caso queira enviar mais números, apenas adicione no **array**.
 
-### Registar novo número para o contato:
+### Registrar novo número para o contato:
 
 **ENDPOINT**: => __/create/contact/(idContato)/phone/ (requisição do tipo **POST**)__\
 
