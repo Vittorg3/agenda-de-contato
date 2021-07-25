@@ -35,7 +35,7 @@ Quando abrir o arquivo, você encontrará as seguintes **variáveis:**
 __Explicando as variáveis:__
 
 **PORT:** Escolha a porta do servidor.\
-**DATABASE:** Digite o **nome do banco de dados** que a **API** irá se conectar.\
+**DATABASE:** Digite o **nome do banco** que a **API** irá criar as tabelas ao se conectar.\
 **DBUSERNAME:** Digite **o nome do usuário do banco**.\
 **DBPASSWORD:** Digite **a senha do usuário do banco**.\
 **HOST:** Digite **o host do banco**.
